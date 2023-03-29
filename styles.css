@@ -125,7 +125,7 @@ body {
 }
 
 #tonio-image {
-    width: 35%;
+    width: calc(30vh);
     margin-left: auto;
     margin-right: 5%;
     align-self: center;
